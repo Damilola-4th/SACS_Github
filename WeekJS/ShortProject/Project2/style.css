@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.Cartoon-Heroes{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}

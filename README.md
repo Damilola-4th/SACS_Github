@@ -4,7 +4,7 @@ Welcome to the Society for the Advancements of Computer Science (SACS) GitHub re
 
 ## About SACS
 
-The Society for the Advancements of Computer Science (SACS) at Morgan State University is a community of passionate individuals dedicated to exploring and advancing the field of computer science. Our mission is to provide resources, support, and opportunities for students interested in computer science and related fields.
+The Society for the Advancements of Computer Science (SACS) at `Morgan State University` is a community of passionate individuals dedicated to exploring and advancing the field of computer science. Our mission is to provide resources, support, and opportunities for students interested in computer science and related fields.
 
 ## Purpose of this Repository
 
@@ -12,8 +12,8 @@ This GitHub repository serves as a central resource hub for SACS members to lear
 
 ## What You'll Find Here
 
-- **Learning Resources**: Tutorials, guides, and articles covering a wide range of topics in computer science, programming languages, and software development.
-        - We're not just about software engineering we plan to have resources for other areas of computer science like `Data Science` and `ML` 
+- **Learning Resources**: Tutorials, guides, and articles covering a wide range of topics in computer science, programming languages, and `Software Development`.
+        - We're not just about Software Engineering we plan to have resources for other areas of computer science like `Data Science` and `ML` 
 - **Code Samples**: Example code snippets and projects to help you understand and practice different programming concepts.
 - **Frameworks and Libraries**: Exploration of popular frameworks, libraries, and tools used in software development.
 - **Community Contributions**: Opportunities to contribute your own projects, tutorials, and resources to share with fellow SACS members.

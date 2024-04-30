@@ -2,6 +2,7 @@ body {
     display: flex;
     margin: 0;
     padding: 0;
+    
 }
 .image-Container {
     width: 100%;
@@ -16,6 +17,7 @@ body {
     font-size: 10rem;
     cursor: pointer;
     user-select: none;
+    
 }
 
 .closed {
